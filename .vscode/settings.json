@@ -1,0 +1,8 @@
+{
+      "files.associations": {
+            "new": "cpp",
+            "cctype": "cpp",
+            "cmath": "cpp",
+            "*.tcc": "cpp"
+      }
+}
